@@ -1,0 +1,1 @@
+web: gunicorn StripeIntegration.wsgi --log-file
